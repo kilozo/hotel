@@ -1,3 +1,2 @@
 # hotel
-kilozo
-"This is aonother read me"
+This is my first text in github
